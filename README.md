@@ -1,5 +1,7 @@
-sigstore-python
+A fork of [sigstore-python](https://github.com/sigstore/sigstore-python)
 ===============
+
+_This reposiory is an experiment to introduce key-signing and container signing capabilities to sigstore-python to support Sigstore signing in Ansible_.
 
 <!--- @begin-badges@ --->
 ![CI](https://github.com/sigstore/sigstore-python/workflows/CI/badge.svg)
